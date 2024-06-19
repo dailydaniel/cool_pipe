@@ -1,0 +1,4 @@
+build/*
+cool_pipe.egg-info/*
+dist/*
+venv/*
